@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\bin\Debug\net7.0\Urna.exe
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\bin\Debug\net7.0\Urna.deps.json
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\bin\Debug\net7.0\Urna.runtimeconfig.json
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\bin\Debug\net7.0\Urna.dll
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\bin\Debug\net7.0\Urna.pdb
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\Urna.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\Urna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\Urna.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\Urna.AssemblyInfo.cs
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\Urna.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\Urna.dll
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\refint\Urna.dll
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\Urna.pdb
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\Urna.genruntimeconfig.cache
+C:\Users\aluno\Documents\Marlon 2025\C# estudos\Urna\Urna\obj\Debug\net7.0\ref\Urna.dll
